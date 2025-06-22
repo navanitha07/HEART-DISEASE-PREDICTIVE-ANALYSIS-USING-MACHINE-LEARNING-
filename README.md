@@ -80,3 +80,6 @@ This project demonstrates how machine learning and web technologies can combine 
 
 Conclusion
 The Heart Disease Prediction Web Application is a practical example of how artificial intelligence can enhance preventive healthcare. It integrates a pre-trained ML model into an easy-to-use web interface, enabling users to quickly assess their health risks. Future enhancements could include graphical feedback, historical tracking, and multilingual support to increase usability and reach.
+
+# OUTPUT
+![Image](https://github.com/user-attachments/assets/9cf9cae6-175e-4e86-a195-709a11f75f28)
