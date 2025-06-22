@@ -83,3 +83,5 @@ The Heart Disease Prediction Web Application is a practical example of how artif
 
 # OUTPUT
 ![Image](https://github.com/user-attachments/assets/9cf9cae6-175e-4e86-a195-709a11f75f28)
+![Image](https://github.com/user-attachments/assets/fa22cd67-5ccb-489d-b1a7-9342a4db7bfb)
+![Image](https://github.com/user-attachments/assets/1d055d32-5908-4ae3-84e7-45bd5204f932)
